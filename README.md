@@ -45,8 +45,7 @@ To view and edit this project, you need a text editor and a web browser.
 ## Project Structure
 
 - `index.html`: The main HTML file for the homepage.
-- `css/`: Directory containing CSS files.
-  - `styles.css`: Main stylesheet for the project.
+- `styles.css`: Main stylesheet for the project.
 - `images/`: Directory containing images used in the project.
 
 ## Contributing
